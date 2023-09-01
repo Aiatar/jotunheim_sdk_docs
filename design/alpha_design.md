@@ -1,4 +1,4 @@
-# Jotunheim SDK Design
+# Jotunheim SDK Design - WIP
 **Goals**
 
 Jotunheim SDK aims to be a one stop shop for the development of custom software and Operating Systems.  Taking a set of input Jotunheim SDK (The SDK) seeks for anyone to be able to quickly setup a framework for their custom software and then execute a build of the software on their current machine.  It also seeks to be able to allow a creator to pull in external sources of custom software and build a distribution.  It seeks to borrow heavily from existing package managers in concept but will be a complete overhaul of the current environment by allowing you to combine sources from different locations (git, svn, hg, source, or binary to name a few), catalog them all and combine them into a working piece of software.
